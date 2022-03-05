@@ -21,20 +21,20 @@
     {
       "id": 4,
       "name": "ESPN",
-      "link": "https://canaismax.com/assistir.php?chmax\u003despn",
-      "poster_path": "https://i.imgur.com/69VH6Ln.png"
+      "link": "https://futebolplayhd.com/player/aovivo.php?canal=espn&amp;pasta=live\u003despn",
+      "poster_path": "https://futebolplayhd.com/imagens-futebol/d6cd74f8ad179bc201fec936a6c1b429.jpg"
     },
     {
       "id": 5,
       "name": "ESPN EXTRA",
-      "link": "https://canaismax.com/assistir.php?chmax\u003despnextrahd",
-      "poster_path": "https://i.imgur.com/xWKhnHp.png"
+      "link": "https://futebolplayhd.com/player/aovivo.php?canal=espnextrahd&amp;pasta=live",
+      "poster_path": "https://futebolplayhd.com/imagens-futebol/90ad13e8322df2f35453eadbb27b0151.jpg"
     },
     {
       "id": 6,
-      "name": "PREMIERE",
-      "link": "https://canaismax.com/assistir.php?chmax\u003dpremiere1hd",
-      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+      "name": "PREMIERE 1",
+      "link": "https://futebolplayhd.com/player/aovivo.php?canal=premiere1hd&amp;pasta=mylive",
+      "poster_path": "https://futebolplayhd.com/imagens-futebol/a03092a091a8f683d77f5e9125e08389.jpg"
     },
     {
       "id": 7,
@@ -89,6 +89,12 @@
       "name": "PREMIERE CLUBES",
       "link": "https://futemax.gratis/assistir_no_thanksgod.php?id\u003desportes10",
       "poster_path": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
+    },
+    {
+      "id": 16,
+      "name": "HBO MAX",
+      "link": "https://futebolplayhd.com/get/channel/dazn/hbomax1/esportes62",
+      "poster_path": "https://futebolplayhd.com/imagens-futebol/991eebb59c57f072ce1e5f71277df2b3.jpg"
     }
   ]
 }
