@@ -2,6 +2,18 @@
   "cinemovies": [
     {
       "id": 1,
+      "name": "TNT SPORTS",
+      "link": "https://futemax.gratis/assistir_no_thanksgod.php?id=esportes62",
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI5Jq9rx_8OpPZ1inpFTRChHI6e_GvtPDjQ&usqp=CAU"
+    },
+    {
+      "id": 1,
+      "name": "HBO SPORTS",
+      "link": "https://futemax.gratis/get/channel/dazn/hbomax1/esportes62",
+      "poster_path": "https://teletime.com.br/wp-content/uploads/2021/03/hbo-max-logo.jpg"
+    },
+    {
+      "id": 1,
       "name": "FOX SPORTS",
       "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dfoxsportshd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg"
