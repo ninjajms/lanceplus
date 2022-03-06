@@ -3,62 +3,56 @@
     {
       "id": 1,
       "name": "FOX SPORTS",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsportshd&pasta=mylive\u003dfoxsportshd",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dfoxsportshd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg"
     },
     {
       "id": 2,
       "name": "FOX SPORTS 2",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsports2hd&pasta=live\u003dfoxsports2hd",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dfoxsports2hd\u0026pasta\u003dlive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/c77b3dbf8545a3bd384f2837a051b4ce.jpg"
     },
     {
       "id": 3,
       "name": "ESPN BRASIL",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnbrasilhd&pasta=mylive\u003despnbrasilhd",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnbrasilhd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/93ffa5b3bcf833a61c84107a32e6291b.jpg"
     },
     {
       "id": 4,
       "name": "ESPN",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnhd&pasta=mylive\u003despn",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnhd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/d6d784c7767f35c5391a479b50fb3d20.jpg"
     },
     {
       "id": 5,
       "name": "ESPN EXTRA",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnextrahd&pasta=live",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnextrahd\u0026pasta\u003dlive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/57087b71feb7fcedb90e5f3e3eb811f4.png"
     },
     {
       "id": 7,
       "name": "SPORTV",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sportvhd&pasta=mylive",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportvhd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg"
     },
     {
       "id": 8,
       "name": "SPORTV 2",
-      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sportv2hd&pasta=mylive\u003dsportv2hd",
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportv2hd\u0026pasta\u003dmylive",
       "poster_path": "https://static.futemax.gratis/wp-content/uploads/60858536484a1fe79b324ccc40816af4.jpg"
     },
     {
       "id": 9,
       "name": "SPORTV 3",
-      "link": "https://canaismax.com/assistir.php?chmax\u003dsportv3hd",
-      "poster_path": "https://i.imgur.com/nvCjg9X.png"
-    },
-    {
-      "id": 10,
-      "name": "BAND SPORTS",
-      "link": "https://canaismax.com/assistir.php?chmax\u003dbandsportshd",
-      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt\u003dmedia\u0026token\u003d67d94c9a-a411-4fd6-b382-535420157d4d"
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportv3hd\u0026pasta\u003dmylive",
+      "poster_path": "https://static.futemax.gratis/wp-content/uploads/4a042a10a8dec791eb618d4e47e1c623.jpg"
     },
     {
       "id": 11,
       "name": "COMBATE",
-      "link": "https://canaismax.com/assistir.php?chmax\u003dcombatehd",
-      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt\u003dmedia\u0026token\u003dfa7b887d-75f5-4f51-9509-cef08f2dc8b6"
+      "link": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dcombatehd\u0026pasta\u003dmylive",
+      "poster_path": "https://static.futemax.gratis/wp-content/uploads/6757a5df49893ab0b6da3227f94faaae.jpg"
     },
     {
       "id": 12,
