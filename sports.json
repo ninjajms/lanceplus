@@ -1,130 +1,124 @@
 {
 	"cinemovies":[
-		{
-        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=esportes7",
-        "nome": "BAND SPORTS - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/chelsea-x-palmeiras.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnmaissd&pasta=mylive",
-        "nome": "ESPN 2 BRASIL - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/e0003e7b520cce937c28a8f8948e899e.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnmaishd&pasta=mylive",
-        "nome": "ESPN 2 BRASIL - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/e0003e7b520cce937c28a8f8948e899e.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnmaishd&pasta=mylive",
-        "nome": "ESPN 2 BRASIL - OPÇÃO 3",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/e0003e7b520cce937c28a8f8948e899e.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=esportes8",
-        "nome": "ESPN - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/d6d784c7767f35c5391a479b50fb3d20.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnhd1&pasta=mylive",
-        "nome": "ESPN - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/d6d784c7767f35c5391a479b50fb3d20.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnhd&pasta=mylive",
-        "nome": "ESPN - OPÇÃO 3",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/d6d784c7767f35c5391a479b50fb3d20.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs5",
-        "nome": "ESP BRASIL - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/93ffa5b3bcf833a61c84107a32e6291b.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/get/channel/dazn/starplus10/vintequatrohrs5",
-        "nome": "ESPN BRASIL - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/93ffa5b3bcf833a61c84107a32e6291b.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnbrasilsd&pasta=mylive",
-        "nome": "ESPN BRASIL - OPÇÃO 3",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/93ffa5b3bcf833a61c84107a32e6291b.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnbrasilhd&pasta=mylive",
-        "nome": "ESPN BRASIL - OPÇÃO 4",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/93ffa5b3bcf833a61c84107a32e6291b.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnextrahd&pasta=live",
-        "nome": "ESPN EXTRA - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/57087b71feb7fcedb90e5f3e3eb811f4.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnextrasd&pasta=live",
-        "nome": "ESPN EXTRA - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/57087b71feb7fcedb90e5f3e3eb811f4.png",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsports2hd&pasta=live",
-        "nome": "FOX SPORTS 2- OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/c77b3dbf8545a3bd384f2837a051b4ce.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsports2sd&pasta=live",
-        "nome": "FOX SPORTS 2 - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/c77b3dbf8545a3bd384f2837a051b4ce.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsportssd&pasta=mylive",
-        "nome": "FOX SPORTS- OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsportshd&pasta=mylive",
-        "nome": "FOX SPORTS - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/972abf6af58a51b0d70a177f6b75ebc6.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sportvhd&pasta=mylive",
-        "nome": "SPORTV OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sportvsd&pasta=mylive",
-        "nome": "SPORTV - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=futemax13",
-        "nome": "SBT - OPÇÃO 1",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/5cba3d4d75819c3ba20fc8370d4a2b69.jpg",
-        "cat": "1"
-      },
-      {
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sbtsd&pasta=mylive",
-        "nome": "SBT - OPÇÃO 2",
-        "foto": "https://static.futemax.gratis/wp-content/uploads/5cba3d4d75819c3ba20fc8370d4a2b69.jpg",
-        "cat": "1"
-      }
-   ]
+              {
+    "foto": "https://futebolplayhd.com/imagens-futebol/91dccc0cfa4c92f24f8e8f4d9fd6e3e1.jpg",
+    "cat": "1",
+    "nome": "Assistir UFC Combate",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dcombatehd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/a03092a091a8f683d77f5e9125e08389.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere HD",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere1hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/ca150e859d3367fe31ce243cc6120e95.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 2 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere2hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/f73d77346f52e03b5654d65fc4aba890.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 3 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere3hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/13f2564bb1a5fc57cf2f3afd4ffdb666.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 4 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere4hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/6f4ae324d7c48dc2ef6a0e205f3f1ba9.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 5 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere5hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/c91f14cccf6a9297fc19a17d722fcb7b.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 6",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere6hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/8dd1aa5dcac8d0b300d000b4340861b6.jpg",
+    "cat": "1",
+    "nome": "Assistir Premiere 7 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dpremiere7hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg",
+    "cat": "1",
+    "nome": "Assistir Sportv  ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportvhd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/2eba08a5c8a782eec8926624737456d0.jpg",
+    "cat": "1",
+    "nome": "Assistir Sportv 2  ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportv2hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/8f1245764548baf0b8c9c51e4bf2e35e.jpg",
+    "cat": "1",
+    "nome": "Assistir Sportv 3  ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportv3hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/53cccf2726db1aa6aa98672a03ee7d7b.png",
+    "cat": "1",
+    "nome": "Assistir Sportv 4",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsportv4hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/53cccf2726db1aa6aa98672a03ee7d7b.png",
+    "cat": "1",
+    "nome": "Assistir Sportv 5",
+    "url": "https://futemax.gratis/assistir_no_thanksgod.php?id\u003desportes5"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/80c5121d2fa5a071d35fd0856f42f425.jpg",
+    "cat": "1",
+    "nome": "Assistir Fox Sports ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dfoxsportshd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/b16e46dbbc37d4b4b6e1fe359bfa60b7.jpg",
+    "cat": "1",
+    "nome": "Assistir Fox Sports 2 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dfoxsports2hd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/d6cd74f8ad179bc201fec936a6c1b429.jpg",
+    "cat": "1",
+    "nome": "Assistir ESPN ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnhd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/411570ab890fda43df326c2d85493b73.jpg",
+    "cat": "1",
+    "nome": "Assistir ESPN 2 ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnmaishd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/90ad13e8322df2f35453eadbb27b0151.jpg",
+    "cat": "1",
+    "nome": "Assistir ESPN Extra",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnextrahd\u0026amp;pasta\u003dlive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/aee7a784a287b59948c5558c4fbaa25d.jpg",
+    "cat": "1",
+    "nome": "Assistir ESPN Brasil ",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003despnbrasilhd\u0026amp;pasta\u003dmylive"
+  },
+  {
+    "foto": "https://futebolplayhd.com/imagens-futebol/55114218302903f143e6e1bb2cbefe5f.jpg",
+    "cat": "1",
+    "nome": "Assistir SBT",
+    "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal\u003dsbtsd\u0026amp;pasta\u003dmylive"
+  }
+	]
 }
